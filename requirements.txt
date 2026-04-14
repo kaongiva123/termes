@@ -1,0 +1,4 @@
+cryptography
+prompt_toolkit
+
+#Нужно и серверу и клиенту
